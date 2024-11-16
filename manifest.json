@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Brown and white.",
+  "version": "1.0",
+  "description": "Just a theme just dont ask what it does",
+  "chrome_url_overrides": {
+    "newtab": "chrome://newtab"
+  },
+  "theme": {
+    "colors": {
+      "frame": [106, 78, 35],               "toolbar": [255, 255, 255],        
+      "tab_text": [0, 0, 0],            
+      "ntp_background": [106, 78, 35],
+      "ntp_text": [255, 255, 255],             "tab_background_text": [255, 255, 255], 
+      "tabs": [255, 255, 255],        
+      "button_background": [255, 255, 255]  // Button background color in the toolbar (white)
+    }
+  }
+}
